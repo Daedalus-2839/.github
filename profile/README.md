@@ -21,7 +21,6 @@ Here’s a quick list of some of the bots we’ve recently developed and deploye
 For questions, support, or collaboration, reach out to us:
 
 - **Email:** daedalus2839@amhcs.org
-- **Unofficial Discord (Not Added Yet):** [Join Server](https://discord.com/)
 
 ### Programming Team Members (2025-2026)
 

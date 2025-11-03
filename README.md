@@ -21,7 +21,14 @@ Here’s a quick list of some of the bots we’ve recently developed and deploye
 For questions, support, or collaboration, reach out to us:
 
 - **Email:** daedalus2839@amhcs.org
-- **Unofficial Discord:** [Join](https://discord.com/)  
+- **Unofficial Discord (Not Added Yet):** [Join Server](https://discord.com/)
+
+### Programming Team Members (2025-2026)
+
+- **Lead:** [Killian Zabinsky](https://github.com/Sacrafex)  
+- **Programmer:** [Seamus McManus](https://github.com/Seamus-McManus)  
+- **Programmer:** [Dexter Gornick](https://github.com/DexterGornick)  
+- **Programmer:** Luke Escobar
 
 ---
 

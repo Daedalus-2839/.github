@@ -8,7 +8,7 @@ Recent Bots
 
 Here’s a quick list of some of the bots we’ve recently developed and deployed:
 
-- **[Offseason - Scrapy]** – Simple Drivebase and 1 pivot point intake made with the base of Vulcan.
+- **[2026 Robot]** – Work in Progress...
 - **[Season - Sacabambaspis]** – 3 Stage Elevator with Limelights and custom intake.
 - **[Season - Vulcan]** – Drivebase with 2 pivot points and an intake.
 
